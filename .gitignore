@@ -1,0 +1,21 @@
+# data artifacts
+*.npy
+*.npz
+*.pt
+*.safetensors
+data/raw/
+data/**/raw/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# os
+.DS_Store
+_ru_source/
+*.npy
+__pycache__/
+.env*
