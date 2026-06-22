@@ -1,5 +1,7 @@
 # Mode-Gated Asymmetry
 
+[![DOI](https://zenodo.org/badge/1276916015.svg)](https://zenodo.org/badge/latestdoi/1276916015)
+
 Testing one prediction of the **HSA / ICAM** framework on the apparatus of *The Assistant Axis* (Lu et al., 2026): do **within-mode configuration edits** and **axis-level regime changes** differ in their geometric consequences — and is the order-dependence of edits itself **mode-gated** (within-mode edits commute, axis-level edits do not)?
 
 ## In brief
