@@ -2,7 +2,7 @@
 
 **Version:** 0.1 (before data collection)
 **Date:** June 21, 2026
-**Author:** Nika [surname / affiliation — to fill in], independent researcher. Frame: Human System Architecture (HSA) / ICAM.
+**Author:** Nika Novak, Institute for Consciousness and Attention Mechanics (ICAM) — independent researcher. Framework: Human System Architecture (HSA) / ICAM.
 **Status:** the plan is committed before data collection. Any deviations from the plan are documented in section 14.
 
 ---

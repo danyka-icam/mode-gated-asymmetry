@@ -44,7 +44,7 @@ ANTHROPIC_API_KEY=... N=12 python3 path-dependence/probes_v2.py
 
 ## Relationship to the field & prior work
 
-This work names and unifies a cut several teams found independently. It builds on the author's prior order-dependence work *(links to be added)*.
+This work names and unifies a cut several teams found independently. It builds on the author's prior work on subjecthood, attention, and observer stabilization (HSA / ICAM): [Structural Thresholds of Observer Stabilization (Zenodo)](https://zenodo.org/records/18772864) and [Human System Architecture (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6148211).
 
 - Lu, C., Gallagher, J., Michala, J., Fish, K., Lindsey, J. (2026). *The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models.* [arXiv:2601.10387](https://arxiv.org/abs/2601.10387) · code: [safety-research/assistant-axis](https://github.com/safety-research/assistant-axis) · vectors: [lu-christina/assistant-axis-vectors](https://huggingface.co/datasets/lu-christina/assistant-axis-vectors)
 - Vasilenko, V. (2026). *Identity as Attractor: Geometric Evidence for Persistent Agent Architecture in LLM Activation Space.* [arXiv:2604.12016](https://arxiv.org/abs/2604.12016)
@@ -53,5 +53,5 @@ This work names and unifies a cut several teams found independently. It builds o
 
 ## Author & license
 
-**Nika Novak** — independent researcher. Framework: Human System Architecture (HSA) / ICAM.
+**Nika Novak**, Institute for Consciousness and Attention Mechanics (ICAM) — independent researcher. Framework: Human System Architecture (HSA) / ICAM.
 Code: MIT (`LICENSE`). Documents (`preregistration/`, `theory/`, `protocols/`): CC-BY-4.0.
