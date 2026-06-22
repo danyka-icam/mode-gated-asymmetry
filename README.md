@@ -41,7 +41,7 @@ ANTHROPIC_API_KEY=... N=12 python3 path-dependence/probes_v2.py
 
 ## Status
 
-- **Activation study:** v0.1, pre-data. The preregistration is frozen with a release tag + Zenodo DOI so that "preregistered" is verifiable (git history is rewritable).
+- **Activation study:** v0.1, pre-data. The preregistration is frozen with a release tag + Zenodo DOI ([10.5281/zenodo.20797756](https://doi.org/10.5281/zenodo.20797756)) so that "preregistered" is verifiable (git history is rewritable).
 - **Behavioral pre-test:** done; result reported.
 
 ## Relationship to the field & prior work
