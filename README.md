@@ -44,6 +44,21 @@ ANTHROPIC_API_KEY=... N=12 python3 path-dependence/probes_v2.py
 - **Activation study:** v0.1, pre-data. The preregistration is frozen with a release tag + Zenodo DOI ([10.5281/zenodo.20797756](https://doi.org/10.5281/zenodo.20797756)) so that "preregistered" is verifiable (git history is rewritable).
 - **Behavioral pre-test:** done; result reported.
 
+## Current public status
+
+This repository preserves the original v0.1 preregistration, the early
+behavioral null result, and the precommitted seam-probe design.
+
+A later behavioral result was published separately on Zenodo:
+
+**Mode-Gated Asymmetry at the Context Seam: Behavioral Results (v0.2)**  
+Zenodo: https://doi.org/10.5281/zenodo.21279644
+
+For the complete chronological version map, see [STATUS.md](STATUS.md).
+
+The activation-space study remains preregistered here unless and until
+a separate completed-result artifact is added.
+
 ## Relationship to the field & prior work
 
 This work names and unifies a cut several teams found independently. It builds on the author's prior work on subjecthood, attention, and observer stabilization (HSA / ICAM): [Structural Thresholds of Observer Stabilization (Zenodo)](https://zenodo.org/records/18772864) and [Human System Architecture (SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6148211).
